@@ -1,0 +1,13 @@
+.abc{
+    text-align: center;
+    background-color: brown;
+    color:aliceblue;
+}
+#list{
+    color:chocolate;
+    background-color: aqua;
+}
+*{
+    background-color: cornsilk;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
